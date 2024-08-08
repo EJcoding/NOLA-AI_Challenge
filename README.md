@@ -19,6 +19,7 @@ To run script in terminal:
 python main.py
 
 Here's some documentation of libraries I used:
+
 https://github.com/JaidedAI/EasyOCR
 
 https://pillow.readthedocs.io/en/stable/
