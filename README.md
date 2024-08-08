@@ -6,8 +6,7 @@ Firstly, I used VS Code so here's how to do it in this IDE
 
 Open VS Code terminal
 
-Create python venv using:
-
+Create python venv using: 
 python -m venv venv
 
 Activate virtual environment:
