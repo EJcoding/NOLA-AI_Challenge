@@ -20,6 +20,9 @@ python main.py
 
 Here's some documentation of libraries I used:
 https://github.com/JaidedAI/EasyOCR
+
 https://pillow.readthedocs.io/en/stable/
+
 https://dateutil.readthedocs.io/en/stable/
+
 https://pypi.org/project/fuzzywuzzy/
