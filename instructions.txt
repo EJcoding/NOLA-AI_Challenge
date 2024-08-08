@@ -1,0 +1,15 @@
+1. Create python venv using:
+python -m venv venv
+
+2. Activate virtual environment
+windows: .\venv\Scripts\activate
+macOS/Linux: source venv/bin/activate
+
+Install libraries
+pip install easyocr pillow python-dateutil fuzzywuzzy
+
+To run script in terminal:
+python main.py
+
+
+*Note*: activate venv when coming back after exiting vscode
