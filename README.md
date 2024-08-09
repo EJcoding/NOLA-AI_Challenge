@@ -23,6 +23,8 @@ To run script in terminal:
 
 python main.py
 
+*NOTE* when it asks img1 or img2, please type either 'img1' or 'img2' as the input
+
 Here's some documentation of libraries I used:
 
 https://github.com/JaidedAI/EasyOCR
