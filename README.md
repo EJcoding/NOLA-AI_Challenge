@@ -2,6 +2,8 @@ NOLA-AI Internship Challenge
 
 Here's how I coded this challenge:
 
+NOTE: I ran this easyocr solution on default CPU and not a GPU so there is possible performance difference if ran with a GPU (GPU could have better intended text extraction)
+
 Firstly, I used VS Code so here's how to do it in this IDE
 
 Open VS Code terminal
